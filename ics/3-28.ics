@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20240328T160000
+DTEND;TZID=America/Los_Angeles:20240328T180000
+SUMMARY:BLE Draft EIS Information Session - CID Community Center
+LOCATION:719 8th Ave S, Seattle, WA 98104
+DESCRIPTION:In preparation for the upcoming Ballard Link Extension (BLE) Draft Environmental Impact Statement (EIS), we are holding a series of information sessions through 2024 for the Chinatown International District (CID) and Pioneer Square communities. We are exploring topics and questions you expressed an interest in over the course of the environmental review process.
+END:VEVENT
+END:VCALENDAR
