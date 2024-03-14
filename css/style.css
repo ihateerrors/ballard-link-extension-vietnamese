@@ -858,3 +858,20 @@ ul.nogap li {
 .get-involved-icons {
   border-bottom: 2px solid #d6148e;
 }
+
+.pink-btn {
+  color: #ffffff;
+  background: #d6148e;
+  border-radius: 3px;
+  box-sizing: border-box;
+  border: 2px solid transparent;
+  width: auto;
+  padding-left: 2.7em;
+  padding-right: 2.7em;
+}
+
+.pink-btn:hover {
+  color: #d6148e;
+  background: #fff;
+  border: 2px solid #d6148e;
+}
